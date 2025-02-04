@@ -23,7 +23,7 @@ import SwagLabs.ObjectRepository.LoginPage;
  */
 
 public class BaseClass {
-	int i=110;
+	int i=1101;
 	public ExcelFileUtility eUtil = new ExcelFileUtility();
 	public PropertyFileUtility pUtil = new PropertyFileUtility();
 	public SeleniumUtility sUtil = new SeleniumUtility();
